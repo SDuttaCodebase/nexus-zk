@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+cryptography
+py_ecc
+psutil
