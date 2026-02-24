@@ -15,3 +15,5 @@ venv/
 
 # Databases / runtime state
 *.db
+
+desktop.ini
